@@ -1,4 +1,4 @@
 {
-    "jwtPrivateKey":"Electric_Shop_jwtPrivateKey"
-
+    "jwtPrivateKey":"Electric_Shop_jwtPrivateKey",
+    "db":"inventUser"
 }

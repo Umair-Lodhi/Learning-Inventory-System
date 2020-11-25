@@ -40,7 +40,6 @@ route.post('/', upload.single('productPic'),async (req, res) => {
 
     const { error } = validatingItems(req.body);
     if (error) return res.status(400).send({ status: '400', errorMessage: error.details[0].message });
-    // console.log(req.body)
     
     const newItem = new AddItems({
         name: req.body.name,
@@ -67,15 +66,11 @@ route.put('/:id',upload.single('productPic'),async (req, res) => {
         productPic: req.file.path
     });
     if (!mySearchedID) return res.status(400).send({ status: '400 Bad Request', errorMessage: "ID not found" })
-    
-    // const newItem = new AddItems({
-        
-    // })
+   
 
     const { error } = validatingItems(req.body);
     if (error) return res.status(400).send({ status: '400 Bad Request', errorMessage: error.details[0].message });
 
-    // await mySearchedID.save();
     res.send(mySearchedID);
 });
 

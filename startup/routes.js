@@ -1,4 +1,4 @@
-const additem = require('../routes/addItems');
+const additem = require('../routes/additems');
 const listofitems = require('../routes/listofitems');
 const internalerrors = require('../middleware/internalerros');
 const user = require('../routes/user');
@@ -18,5 +18,5 @@ module.exports = function (app) {
     app.use('/api/addtocart', addingtocart);
     app.use('/api/totalinvestment', getinvestment)
     app.use('/uploads',express.static('uploads'));
-    // app.use(internalerrors);
+    app.use(internalerrors);
 }
