@@ -1,0 +1,268 @@
+{"level":"error"}
+{"message":"Cannot destructure property 'error' of 'validatingUser(...)' as it is undefined.","level":"error"}
+{"message":"Cannot destructure property 'error' of 'validatingUser(...)' as it is undefined.","level":"error"}
+{"message":"user.genauthtoken is not a function","level":"error"}
+{"message":"user.genauthtoken is not a function","level":"error"}
+{"message":"user.genauthtoken is not a function","level":"error"}
+{"message":"user is not defined","level":"error"}
+{"message":"Cannot read property 'details' of undefined","level":"error"}
+{"message":"Cannot read property 'details' of undefined","level":"error"}
+{"message":"Cannot read property 'details' of undefined","level":"error"}
+{"message":"checkItem is not defined","level":"error"}
+{"message":"checkItem is not defined","level":"error"}
+{"message":"AddItems validation failed: numOfSoldItem: Cast to Number failed for value \"NaN\" at path \"numOfSoldItem\"","level":"error"}
+{"message":"totalProfit is not defined","level":"error"}
+{"message":"Cannot destructure property 'error' of 'validatingPurchasingItem(...)' as it is undefined.","level":"error"}
+{"message":"ENOENT: no such file or directory, open 'C:\\Users\\Umair Nadeem\\Shop-DataBase\\public\\images\\uploads\\image-1605526303173'","level":"error"}
+{"message":"Unexpected token - in JSON at position 0","level":"error"}
+{"message":"Unexpected token - in JSON at position 0","level":"error"}
+{"message":"Unexpected token - in JSON at position 0","level":"error"}
+{"message":"Unexpected token - in JSON at position 0","level":"error"}
+{"message":"Only image files are allowed!","level":"error"}
+{"message":"Cannot read property '_locals' of undefined","level":"error"}
+{"message":"Cannot read property '_locals' of undefined","level":"error"}
+{"message":"Cannot read property '_id' of undefined","level":"error"}
+{"message":"Cannot read property '_id' of undefined","level":"error"}
+{"message":"Cannot read property '_id' of undefined","level":"error"}
+{"message":"Cannot read property '_id' of undefined","level":"error"}
+{"message":"User validation failed: city: Path `city` is required., address: Path `address` is required.","level":"error"}
+{"message":"User validation failed: city: Path `city` is required., address: Path `address` is required.","level":"error"}
+{"message":"req.logout is not a function","level":"error"}
+{"message":"req.logout is not a function","level":"error"}
+{"message":"req.logout is not a function","level":"error"}
+{"message":"req.logout is not a function","level":"error"}
+{"message":"req.user.deleteToken is not a function","level":"error"}
+{"message":"req.user.deleteToken is not a function","level":"error"}
+{"message":"Unexpected string in JSON at position 74","level":"error"}
+{"message":"Unexpected string in JSON at position 74","level":"error"}
+{"message":"Unexpected string in JSON at position 74","level":"error"}
+{"message":"Unexpected string in JSON at position 74","level":"error"}
+{"message":"FATAL ERROR: jwtPrivateKey is not defined","level":"info"}
+{"message":"FATAL ERROR: jwtPrivateKey is not defined","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"FATAL ERROR: jwtPrivateKey is not defined","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"FATAL ERROR: jwtPrivateKey is not defined","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
+{"message":"Listening to port 4000....","level":"info"}
+{"message":"Connected to mongodb://localhost/Electric-Shop","level":"info"}
